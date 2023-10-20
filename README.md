@@ -1,10 +1,10 @@
 <h1 align="left">Hiii devs ❤️, I'm RENAN LOBO</h1>
-<h3 align="left">I'm a 23y low-level developer student trying to discover this new world. I'm passionate with web development and trying to increase my knowledge.<h3/>
+I'm a 23y low-level developer student trying to discover this new world. <br>
+I'm passionate with web development and trying to increase my knowledge.
 
 ![gif-anime-coding](https://github.com/devRenanLobo/devRenanLobo/assets/134127441/7f702f24-e933-4b32-a31b-9264b95e9aa2)
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devRenanLobo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRenanLobo&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
