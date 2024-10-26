@@ -2,9 +2,9 @@
 
 <div align="center";>
   
-<p> ✌ I'm a 23y low-level developer student trying to discover this new world.  </p>
+<p> ✌ I'm a 24y low-level developer student trying to discover this new world.  </p>
 <p> ✨ I'm passionate with web development and trying to increase my knowledge. </p>
-<p> 💻 Currently graduating in telecommunication engeneering at IFCE - Instituto Federal de Ciência e Tecnologia do Ceará.</p>
+<p> 💻 Graduated in telecommunication engeneering at IFCE - Instituto Federal de Ciência e Tecnologia do Ceará.</p>
 
 
 ![gif-anime-coding](https://github.com/devRenanLobo/devRenanLobo/assets/134127441/7f702f24-e933-4b32-a31b-9264b95e9aa2)
